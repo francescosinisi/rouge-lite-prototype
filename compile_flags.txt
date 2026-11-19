@@ -1,0 +1,7 @@
+-Ivendor/raylib-6.2_linux_amd64/include
+-MMD
+-MP
+-O2
+-std=c99
+-Wall
+-Wextra
